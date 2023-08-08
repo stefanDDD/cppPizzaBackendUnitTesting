@@ -1,0 +1,49 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (readcmds.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UnitTesting.cpp
+D:\Facultate\Siemens\InternshipSiemens\Deamon\OrderClass.h(32,35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\Siemens\InternshipSiemens\Deamon\OrderClass.h(33,41): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\Siemens\InternshipSiemens\Deamon\ThreadOvens.cpp(68,19): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\Facultate\Siemens\InternshipSiemens\Deamon\ThreadOvens.cpp(98,7): warning C4101: 'available': unreferenced local variable
+D:\Facultate\Siemens\InternshipSiemens\Deamon\OvenClass.cpp(18,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Siemens\InternshipSiemens\Deamon\OvenClass.cpp(38,72): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\Facultate\Siemens\InternshipSiemens\Deamon\CheckStatus.cpp(107,18): warning C4101: 'rs': unreferenced local variable
+D:\Facultate\Siemens\InternshipSiemens\Deamon\CheckStatus.cpp(119,9): warning C4068: unknown pragma 'CodeCoverage'
+D:\Facultate\Siemens\InternshipSiemens\Deamon\CheckStatus.cpp(124,18): warning C4101: 'rs': unreferenced local variable
+D:\Facultate\Siemens\InternshipSiemens\Deamon\OrderItems.cpp(33,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\Siemens\InternshipSiemens\Deamon\ThreadDelivery.cpp(23,18): warning C4101: 'rs': unreferenced local variable
+D:\Facultate\Siemens\InternshipSiemens\Deamon\ThreadDelivery.cpp(39,18): warning C4101: 'rs': unreferenced local variable
+D:\Facultate\Siemens\InternshipSiemens\Deamon\ThreadDelivery.cpp(63,20): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\Facultate\Siemens\InternshipSiemens\Deamon\DeliveryClass.cpp(37,81): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\Facultate\Siemens\InternshipSiemens\Deamon\DeliveryClass.cpp(42,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\Siemens\InternshipSiemens\Deamon\GraphClass.cpp(75,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\Siemens\InternshipSiemens\UnitTesting\UnitTesting.cpp(111,3): warning C4002: too many arguments for function-like macro invocation 'assert'
+D:\Facultate\Siemens\InternshipSiemens\UnitTesting\UnitTesting.cpp(158,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Facultate\Siemens\InternshipSiemens\UnitTesting\UnitTesting.cpp(238,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Siemens\InternshipSiemens\UnitTesting\UnitTesting.cpp(572,21): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+     Creating library D:\Facultate\Siemens\InternshipSiemens\Deamon\x64\Release\UnitTesting.lib and object D:\Facultate\Siemens\InternshipSiemens\Deamon\x64\Release\UnitTesting.exp
+  Generating code
+  17 of 3233 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    17 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UnitTesting.vcxproj -> D:\Facultate\Siemens\InternshipSiemens\Deamon\x64\Release\UnitTesting.dll
